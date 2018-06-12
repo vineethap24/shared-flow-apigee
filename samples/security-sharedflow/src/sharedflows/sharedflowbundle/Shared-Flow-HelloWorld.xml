@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlowBundle revision="1" name="Shared-Flow-HelloWorld">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1514054541006</CreatedAt>
+    <CreatedBy>sunilb@sidglobal.net</CreatedBy>
+    <Description></Description>
+    <DisplayName>Shared-Flow-HelloWorld</DisplayName>
+    <LastModifiedAt>1514054605393</LastModifiedAt>
+    <LastModifiedBy>sunilb@sidglobal.net</LastModifiedBy>
+    <Policies>
+        <Policy>Quota-check</Policy>
+    </Policies>
+    <Resources/>
+    <Spec></Spec>
+    <subType>SharedFlow</subType>
+    <validate>false</validate>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+</SharedFlowBundle>
